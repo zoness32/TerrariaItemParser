@@ -7,8 +7,8 @@
     <ProjectGuid>{96ACA02D-214A-43FE-AB92-F964DCB5A533}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>terrariaItemParser</RootNamespace>
-    <AssemblyName>terrariaItemParser</AssemblyName>
+    <RootNamespace>TerrariaFileParser</RootNamespace>
+    <AssemblyName>TerrariaFileParser</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

@@ -1,0 +1,1941 @@
+1|Iron Pickaxe|1
+2|Dirt Block|2
+3|Stone Block|3
+4|Iron Broadsword|4
+5|Mushroom|5
+6|Iron Shortsword|6
+7|Iron Hammer|7
+8|Torch|8
+9|Wood|9
+10|Iron Axe|10
+11|Iron Ore|11
+12|Copper Ore|12
+13|Gold Ore|13
+14|Silver Ore|14
+15|Copper Watch|15
+16|Silver Watch|16
+17|Gold Watch|17
+18|Depth Meter|18
+19|Gold Bar|19
+20|Copper Bar|20
+21|Silver Bar|21
+22|Iron Bar|22
+23|Gel|23
+24|Wooden Sword|24
+25|Wooden Door|25
+26|Stone Wall|26
+27|Acorn|27
+28|Lesser Healing Potion|28
+29|Life Crystal|29
+30|Dirt Wall|30
+31|Bottle|31
+32|Wooden Table|32
+33|Furnace|33
+34|Wooden Chair|34
+35|Iron Anvil|35
+36|Work Bench|36
+37|Goggles|37
+38|Lens|38
+39|Wooden Bow|39
+40|Wooden Arrow|40
+41|Flaming Arrow|41
+42|Shuriken|42
+43|Suspicious Looking Eye|43
+44|Demon Bow|44
+45|War Axe of the Night|45
+46|Light's Bane|46
+47|Unholy Arrow|47
+48|Chest|48
+49|Band of Regeneration|49
+50|Magic Mirror|50
+51|Jester's Arrow|51
+52|Angel Statue|52
+53|Cloud in a Bottle|53
+54|Hermes Boots|54
+55|Enchanted Boomerang|55
+56|Demonite Ore|56
+57|Demonite Bar|57
+58|Heart|58
+59|Corrupt Seeds|59
+60|Vile Mushroom|60
+61|Ebonstone Block|61
+62|Grass Seeds|62
+63|Sunflower|63
+64|Vilethorn|64
+65|Starfury|65
+66|Purification Powder|66
+67|Vile Powder|67
+68|Rotten Chunk|68
+69|Worm Tooth|69
+70|Worm Food|70
+71|Copper Coin|71
+72|Silver Coin|72
+73|Gold Coin|73
+74|Platinum Coin|74
+75|Fallen Star|75
+76|Copper Greaves|76
+77|Iron Greaves|77
+78|Silver Greaves|78
+79|Gold Greaves|79
+80|Copper Chainmail|80
+81|Iron Chainmail|81
+82|Silver Chainmail|82
+83|Gold Chainmail|83
+84|Grappling Hook|84
+85|Iron Chain|85
+86|Shadow Scale|86
+87|Piggy Bank|87
+88|Mining Helmet|88
+89|Copper Helmet|89
+90|Iron Helmet|90
+91|Silver Helmet|91
+92|Gold Helmet|92
+93|Wood Wall|93
+94|Wood Platform|94
+95|Flintlock Pistol|95
+96|Musket|96
+97|Musket Ball|97
+98|Minishark|98
+99|Iron Bow|99
+100|Shadow Greaves|100
+101|Shadow Scalemail|101
+102|Shadow Helmet|102
+103|Nightmare Pickaxe|103
+104|The Breaker|104
+105|Candle|105
+106|Copper Chandelier|106
+107|Silver Chandelier|107
+108|Gold Chandelier|108
+109|Mana Crystal|109
+110|Lesser Mana Potion|110
+111|Band of Starpower|111
+112|Flower of Fire|112
+113|Magic Missile|113
+114|Dirt Rod|114
+115|Orb of Light|115
+116|Meteorite|116
+117|Meteorite Bar|117
+118|Hook|118
+119|Flamarang|119
+120|Molten Fury|120
+121|Fiery Greatsword|121
+122|Molten Pickaxe|122
+123|Meteor Helmet|123
+124|Meteor Suit|124
+125|Meteor Leggings|125
+126|Bottled Water|126
+127|Space Gun|127
+128|Rocket Boots|128
+129|Gray Brick|129
+130|Gray Brick Wall|130
+131|Red Brick|131
+132|Red Brick Wall|132
+133|Clay Block|133
+134|Blue Brick|134
+135|Blue Brick Wall|135
+136|Chain Lantern|136
+137|Green Brick|137
+138|Green Brick Wall|138
+139|Pink Brick|139
+140|Pink Brick Wall|140
+141|Gold Brick|141
+142|Gold Brick Wall|142
+143|Silver Brick|143
+144|Silver Brick Wall|144
+145|Copper Brick|145
+146|Copper Brick Wall|146
+147|Spike|147
+148|Water Candle|148
+149|Book|149
+150|Cobweb|150
+151|Necro Helmet|151
+152|Necro Breastplate|152
+153|Necro Greaves|153
+154|Bone|154
+155|Muramasa|155
+156|Cobalt Shield|156
+157|Aqua Scepter|157
+158|Lucky Horseshoe|158
+159|Shiny Red Balloon|159
+160|Harpoon|160
+161|Spiky Ball|161
+162|Ball 'O Hurt|162
+163|Blue Moon|163
+164|Handgun|164
+165|Water Bolt|165
+166|Bomb|166
+167|Dynamite|167
+168|Grenade|168
+169|Sand Block|169
+170|Glass|170
+171|Sign|171
+172|Ash Block|172
+173|Obsidian|173
+174|Hellstone|174
+175|Hellstone Bar|175
+176|Mud Block|176
+177|Sapphire|177
+178|Ruby|178
+179|Emerald|179
+180|Topaz|180
+181|Amethyst|181
+182|Diamond|182
+183|Glowing Mushroom|183
+184|Star|184
+185|Ivy Whip|185
+186|Breathing Reed|186
+187|Flipper|187
+188|Healing Potion|188
+189|Mana Potion|189
+190|Blade of Grass|190
+191|Thorn Chakram|191
+192|Obsidian Brick|192
+193|Obsidian Skull|193
+194|Mushroom Grass Seeds|194
+195|Jungle Grass Seeds|195
+196|Wooden Hammer|196
+197|Star Cannon|197
+198|Blue Phaseblade|198
+199|Red Phaseblade|199
+200|Green Phaseblade|200
+201|Purple Phaseblade|201
+202|White Phaseblade|202
+203|Yellow Phaseblade|203
+204|Meteor Hamaxe|204
+205|Empty Bucket|205
+206|Water Bucket|206
+207|Lava Bucket|207
+208|Jungle Rose|208
+209|Stinger|209
+210|Vine|210
+211|Feral Claws|211
+212|Anklet of the Wind|212
+213|Staff of Regrowth|213
+214|Hellstone Brick|214
+215|Whoopie Cushion|215
+216|Shackle|216
+217|Molten Hamaxe|217
+218|Flamelash|218
+219|Phoenix Blaster|219
+220|Sunfury|220
+221|Hellforge|221
+222|Clay Pot|222
+223|Nature's Gift|223
+224|Bed|224
+225|Silk|225
+226|Lesser Restoration Potion|226
+227|Restoration Potion|227
+228|Jungle Hat|228
+229|Jungle Shirt|229
+230|Jungle Pants|230
+231|Molten Helmet|231
+232|Molten Breastplate|232
+233|Molten Greaves|233
+234|Meteor Shot|234
+235|Sticky Bomb|235
+236|Black Lens|236
+237|Sunglasses|237
+238|Wizard Hat|238
+239|Top Hat|239
+240|Tuxedo Shirt|240
+241|Tuxedo Pants|241
+242|Summer Hat|242
+243|Bunny Hood|243
+244|Plumber's Hat|244
+245|Plumber's Shirt|245
+246|Plumber's Pants|246
+247|Hero's Hat|247
+248|Hero's Shirt|248
+249|Hero's Pants|249
+250|Fish Bowl|250
+251|Archaeologist's Hat|251
+252|Archaeologist's Jacket|252
+253|Archaeologist's Pants|253
+254|Black Thread|254
+255|Green Thread|255
+256|Ninja Hood|256
+257|Ninja Shirt|257
+258|Ninja Pants|258
+259|Leather|259
+260|Red Hat|260
+261|Goldfish|261
+262|Robe|262
+263|Robot Hat|263
+264|Gold Crown|264
+265|Hellfire Arrow|265
+266|Sandgun|266
+267|Guide Voodoo Doll|267
+268|Diving Helmet|268
+269|Familiar Shirt|269
+270|Familiar Pants|270
+271|Familiar Wig|271
+272|Demon Scythe|272
+273|Night's Edge|273
+274|Dark Lance|274
+275|Coral|275
+276|Cactus|276
+277|Trident|277
+278|Silver Bullet|278
+279|Throwing Knife|279
+280|Spear|280
+281|Blowpipe|281
+282|Glowstick|282
+283|Seed|283
+284|Wooden Boomerang|284
+285|Aglet|285
+286|Sticky Glowstick|286
+287|Poisoned Knife|287
+288|Obsidian Skin Potion|288
+289|Regeneration Potion|289
+290|Swiftness Potion|290
+291|Gills Potion|291
+292|Ironskin Potion|292
+293|Mana Regeneration Potion|293
+294|Magic Power Potion|294
+295|Featherfall Potion|295
+296|Spelunker Potion|296
+297|Invisibility Potion|297
+298|Shine Potion|298
+299|Night Owl Potion|299
+300|Battle Potion|300
+301|Thorns Potion|301
+302|Water Walking Potion|302
+303|Archery Potion|303
+304|Hunter Potion|304
+305|Gravitation Potion|305
+306|Gold Chest|306
+307|Daybloom Seeds|307
+308|Moonglow Seeds|308
+309|Blinkroot Seeds|309
+310|Deathweed Seeds|310
+311|Waterleaf Seeds|311
+312|Fireblossom Seeds|312
+313|Daybloom|313
+314|Moonglow|314
+315|Blinkroot|315
+316|Deathweed|316
+317|Waterleaf|317
+318|Fireblossom|318
+319|Shark Fin|319
+320|Feather|320
+321|Tombstone|321
+322|Mime Mask|322
+323|Antlion Mandible|323
+324|Illegal Gun Parts|324
+325|The Doctor's Shirt|325
+326|The Doctor's Pants|326
+327|Golden Key|327
+328|Shadow Chest|328
+329|Shadow Key|329
+330|Obsidian Brick Wall|330
+331|Jungle Spores|331
+332|Loom|332
+333|Piano|333
+334|Dresser|334
+335|Bench|335
+336|Bathtub|336
+337|Red Banner|337
+338|Green Banner|338
+339|Blue Banner|339
+340|Yellow Banner|340
+341|Lamp Post|341
+342|Tiki Torch|342
+343|Barrel|343
+344|Chinese Lantern|344
+345|Cooking Pot|345
+346|Safe|346
+347|Skull Lantern|347
+348|Trash Can|348
+349|Candelabra|349
+350|Pink Vase|350
+351|Mug|351
+352|Keg|352
+353|Ale|353
+354|Bookcase|354
+355|Throne|355
+356|Bowl|356
+357|Bowl of Soup|357
+358|Toilet|358
+359|Grandfather Clock|359
+360|Armor Statue|360
+361|Goblin Battle Standard|361
+362|Tattered Cloth|362
+363|Sawmill|363
+364|Cobalt Ore|364
+365|Mythril Ore|365
+366|Adamantite Ore|366
+367|Pwnhammer|367
+368|Excalibur|368
+369|Hallowed Seeds|369
+370|Ebonsand Block|370
+371|Cobalt Hat|371
+372|Cobalt Helmet|372
+373|Cobalt Mask|373
+374|Cobalt Breastplate|374
+375|Cobalt Leggings|375
+376|Mythril Hood|376
+377|Mythril Helmet|377
+378|Mythril Hat|378
+379|Mythril Chainmail|379
+380|Mythril Greaves|380
+381|Cobalt Bar|381
+382|Mythril Bar|382
+383|Cobalt Chainsaw|383
+384|Mythril Chainsaw|384
+385|Cobalt Drill|385
+386|Mythril Drill|386
+387|Adamantite Chainsaw|387
+388|Adamantite Drill|388
+389|Dao of Pow|389
+390|Mythril Halberd|390
+391|Adamantite Bar|391
+392|Glass Wall|392
+393|Compass|393
+394|Diving Gear|394
+395|GPS|395
+396|Obsidian Horseshoe|396
+397|Obsidian Shield|397
+398|Tinkerer's Workshop|398
+399|Cloud in a Balloon|399
+400|Adamantite Headgear|400
+401|Adamantite Helmet|401
+402|Adamantite Mask|402
+403|Adamantite Breastplate|403
+404|Adamantite Leggings|404
+405|Spectre Boots|405
+406|Adamantite Glaive|406
+407|Toolbelt|407
+408|Pearlsand Block|408
+409|Pearlstone Block|409
+410|Mining Shirt|410
+411|Mining Pants|411
+412|Pearlstone Brick|412
+413|Iridescent Brick|413
+414|Mudstone Block|414
+415|Cobalt Brick|415
+416|Mythril Brick|416
+417|Pearlstone Brick Wall|417
+418|Iridescent Brick Wall|418
+419|Mudstone Brick Wall|419
+420|Cobalt Brick Wall|420
+421|Mythril Brick Wall|421
+422|Holy Water|422
+423|Unholy Water|423
+424|Silt Block|424
+425|Fairy Bell|425
+426|Breaker Blade|426
+427|Blue Torch|427
+428|Red Torch|428
+429|Green Torch|429
+430|Purple Torch|430
+431|White Torch|431
+432|Yellow Torch|432
+433|Demon Torch|433
+434|Clockwork Assault Rifle|434
+435|Cobalt Repeater|435
+436|Mythril Repeater|436
+437|Dual Hook|437
+438|Star Statue|438
+439|Sword Statue|439
+440|Slime Statue|440
+441|Goblin Statue|441
+442|Shield Statue|442
+443|Bat Statue|443
+444|Fish Statue|444
+445|Bunny Statue|445
+446|Skeleton Statue|446
+447|Reaper Statue|447
+448|Woman Statue|448
+449|Imp Statue|449
+450|Gargoyle Statue|450
+451|Gloom Statue|451
+452|Hornet Statue|452
+453|Bomb Statue|453
+454|Crab Statue|454
+455|Hammer Statue|455
+456|Potion Statue|456
+457|Spear Statue|457
+458|Cross Statue|458
+459|Jellyfish Statue|459
+460|Bow Statue|460
+461|Boomerang Statue|461
+462|Boot Statue|462
+463|Chest Statue|463
+464|Bird Statue|464
+465|Axe Statue|465
+466|Corrupt Statue|466
+467|Tree Statue|467
+468|Anvil Statue|468
+469|Pickaxe Statue|469
+470|Mushroom Statue|470
+471|Eyeball Statue|471
+472|Pillar Statue|472
+473|Heart Statue|473
+474|Pot Statue|474
+475|Sunflower Statue|475
+476|King Statue|476
+477|Queen Statue|477
+478|Piranha Statue|478
+479|Planked Wall|479
+480|Wooden Beam|480
+481|Adamantite Repeater|481
+482|Adamantite Sword|482
+483|Cobalt Sword|483
+484|Mythril Sword|484
+485|Moon Charm|485
+486|Ruler|486
+487|Crystal Ball|487
+488|Disco Ball|488
+489|Sorcerer Emblem|489
+490|Warrior Emblem|490
+491|Ranger Emblem|491
+492|Demon Wings|492
+493|Angel Wings|493
+494|Magical Harp|494
+495|Rainbow Rod|495
+496|Ice Rod|496
+497|Neptune's Shell|497
+498|Mannequin|498
+499|Greater Healing Potion|499
+500|Greater Mana Potion|500
+501|Pixie Dust|501
+502|Crystal Shard|502
+503|Clown Hat|503
+504|Clown Shirt|504
+505|Clown Pants|505
+506|Flamethrower|506
+507|Bell|507
+508|Harp|508
+509|Wrench|509
+510|Wire Cutter|510
+511|Active Stone Block|511
+512|Inactive Stone Block|512
+513|Lever|513
+514|Laser Rifle|514
+515|Crystal Bullet|515
+516|Holy Arrow|516
+517|Magic Dagger|517
+518|Crystal Storm|518
+519|Cursed Flames|519
+520|Soul of Light|520
+521|Soul of Night|521
+522|Cursed Flame|522
+523|Cursed Torch|523
+524|Adamantite Forge|524
+525|Mythril Anvil|525
+526|Unicorn Horn|526
+527|Dark Shard|527
+528|Light Shard|528
+529|Red Pressure Plate|529
+530|Wire|530
+531|Spell Tome|531
+532|Star Cloak|532
+533|Megashark|533
+534|Shotgun|534
+535|Philosopher's Stone|535
+536|Titan Glove|536
+537|Cobalt Naginata|537
+538|Switch|538
+539|Dart Trap|539
+540|Boulder|540
+541|Green Pressure Plate|541
+542|Gray Pressure Plate|542
+543|Brown Pressure Plate|543
+544|Mechanical Eye|544
+545|Cursed Arrow|545
+546|Cursed Bullet|546
+547|Soul of Fright|547
+548|Soul of Might|548
+549|Soul of Sight|549
+550|Gungnir|550
+551|Hallowed Plate Mail|551
+552|Hallowed Greaves|552
+553|Hallowed Helmet|553
+554|Cross Necklace|554
+555|Mana Flower|555
+556|Mechanical Worm|556
+557|Mechanical Skull|557
+558|Hallowed Headgear|558
+559|Hallowed Mask|559
+560|Slime Crown|560
+561|Light Disc|561
+562|Music Box (Overworld Day)|562
+563|Music Box (Eerie)|563
+564|Music Box (Night)|564
+565|Music Box (Title)|565
+566|Music Box (Underground)|566
+567|Music Box (Boss 1)|567
+568|Music Box (Jungle)|568
+569|Music Box (Corruption)|569
+570|Music Box (Underground Corruption)|570
+571|Music Box (The Hallow)|571
+572|Music Box (Boss 2)|572
+573|Music Box (Underground Hallow)|573
+574|Music Box (Boss 3)|574
+575|Soul of Flight|575
+576|Music Box|576
+577|Demonite Brick|577
+578|Hallowed Repeater|578
+579|Drax|579
+580|Explosives|580
+581|Inlet Pump|581
+582|Outlet Pump|582
+583|1 Second Timer|583
+584|3 Second Timer|584
+585|5 Second Timer|585
+586|Candy Cane Block|586
+587|Candy Cane Wall|587
+588|Santa Hat|588
+589|Santa Shirt|589
+590|Santa Pants|590
+591|Green Candy Cane Block|591
+592|Green Candy Cane Wall|592
+593|Snow Block|593
+594|Snow Brick|594
+595|Snow Brick Wall|595
+596|Blue Light|596
+597|Red Light|597
+598|Green Light|598
+599|Blue Present|599
+600|Green Present|600
+601|Yellow Present|601
+602|Snow Globe|602
+603|Carrot|603
+604|Adamantite Beam|604
+605|Adamantite Beam Wall|605
+606|Demonite Brick Wall|606
+607|Sandstone Brick|607
+608|Sandstone Brick Wall|608
+609|Ebonstone Brick|609
+610|Ebonstone Brick Wall|610
+611|Red Stucco|611
+612|Yellow Stucco|612
+613|Green Stucco|613
+614|Gray Stucco|614
+615|Red Stucco Wall|615
+616|Yellow Stucco Wall|616
+617|Green Stucco Wall|617
+618|Gray Stucco Wall|618
+619|Ebonwood|619
+620|Rich Mahogany|620
+621|Pearlwood|621
+622|Ebonwood Wall|622
+623|Rich Mahogany Wall|623
+624|Pearlwood Wall|624
+625|Ebonwood Chest|625
+626|Rich Mahogany Chest|626
+627|Pearlwood Chest|627
+628|Ebonwood Chair|628
+629|Rich Mahogany Chair|629
+630|Pearlwood Chair|630
+631|Ebonwood Platform|631
+632|Rich Mahogany Platform|632
+633|Pearlwood Platform|633
+634|Bone Platform|634
+635|Ebonwood Work Bench|635
+636|Rich Mahogany Work Bench|636
+637|Pearlwood Work Bench|637
+638|Ebonwood Table|638
+639|Rich Mahogany Table|639
+640|Pearlwood Table|640
+641|Ebonwood Piano|641
+642|Rich Mahogany Piano|642
+643|Pearlwood Piano|643
+644|Ebonwood Bed|644
+645|Rich Mahogany Bed|645
+646|Pearlwood Bed|646
+647|Ebonwood Dresser|647
+648|Rich Mahogany Dresser|648
+649|Pearlwood Dresser|649
+650|Ebonwood Door|650
+651|Rich Mahogany Door|651
+652|Pearlwood Door|652
+653|Ebonwood Sword|653
+654|Ebonwood Hammer|654
+655|Ebonwood Bow|655
+656|Rich Mahogany Sword|656
+657|Rich Mahogany Hammer|657
+658|Rich Mahogany Bow|658
+659|Pearlwood Sword|659
+660|Pearlwood Hammer|660
+661|Pearlwood Bow|661
+662|Rainbow Brick|662
+663|Rainbow Brick Wall|663
+664|Ice Block|664
+665|Red's Wings|665
+666|Red's Helmet|666
+667|Red's Breastplate|667
+668|Red's Leggings|668
+669|Fish|669
+670|Ice Boomerang|670
+671|Keybrand|671
+672|Cutlass|672
+673|Boreal Wood Work Bench|673
+674|True Excalibur|674
+675|True Night's Edge|675
+676|Frostbrand|676
+677|Boreal Wood Table|677
+678|Red Potion|678
+679|Tactical Shotgun|679
+680|Ivy Chest|680
+681|Ice Chest|681
+682|Marrow|682
+683|Unholy Trident|683
+684|Frost Helmet|684
+685|Frost Breastplate|685
+686|Frost Leggings|686
+687|Tin Helmet|687
+688|Tin Chainmail|688
+689|Tin Greaves|689
+690|Lead Helmet|690
+691|Lead Chainmail|691
+692|Lead Greaves|692
+693|Tungsten Helmet|693
+694|Tungsten Chainmail|694
+695|Tungsten Greaves|695
+696|Platinum Helmet|696
+697|Platinum Chainmail|697
+698|Platinum Greaves|698
+699|Tin Ore|699
+700|Lead Ore|700
+701|Tungsten Ore|701
+702|Platinum Ore|702
+703|Tin Bar|703
+704|Lead Bar|704
+705|Tungsten Bar|705
+706|Platinum Bar|706
+707|Tin Watch|707
+708|Tungsten Watch|708
+709|Platinum Watch|709
+710|Tin Chandelier|710
+711|Tungsten Chandelier|711
+712|Platinum Chandelier|712
+713|Platinum Candle|713
+714|Platinum Candelabra|714
+715|Platinum Crown|715
+716|Lead Anvil|716
+717|Tin Brick|717
+718|Tungsten Brick|718
+719|Platinum Brick|719
+720|Tin Brick Wall|720
+721|Tungsten Brick Wall|721
+722|Platinum Brick Wall|722
+723|Beam Sword|723
+724|Ice Blade|724
+725|Ice Bow|725
+726|Frost Staff|726
+727|Wood Helmet|727
+728|Wood Breastplate|728
+729|Wood Greaves|729
+730|Ebonwood Helmet|730
+731|Ebonwood Breastplate|731
+732|Ebonwood Greaves|732
+733|Rich Mahogany Helmet|733
+734|Rich Mahogany Breastplate|734
+735|Rich Mahogany Greaves|735
+736|Pearlwood Helmet|736
+737|Pearlwood Breastplate|737
+738|Pearlwood Greaves|738
+739|Amethyst Staff|739
+740|Topaz Staff|740
+741|Sapphire Staff|741
+742|Emerald Staff|742
+743|Ruby Staff|743
+744|Diamond Staff|744
+745|Grass Wall|745
+746|Jungle Wall|746
+747|Flower Wall|747
+748|Jetpack|748
+749|Butterfly Wings|749
+750|Cactus Wall|750
+751|Cloud|751
+752|Cloud Wall|752
+753|Seaweed|753
+754|Rune Hat|754
+755|Rune Robe|755
+756|Mushroom Spear|756
+757|Terra Blade|757
+758|Grenade Launcher|758
+759|Rocket Launcher|759
+760|Proximity Mine Launcher|760
+761|Fairy Wings|761
+762|Slime Block|762
+763|Flesh Block|763
+764|Mushroom Wall|764
+765|Rain Cloud|765
+766|Bone Block|766
+767|Frozen Slime Block|767
+768|Bone Block Wall|768
+769|Slime Block Wall|769
+770|Flesh Block Wall|770
+771|Rocket I|771
+772|Rocket II|772
+773|Rocket III|773
+774|Rocket IV|774
+775|Asphalt Block|775
+776|Cobalt Pickaxe|776
+777|Mythril Pickaxe|777
+778|Adamantite Pickaxe|778
+779|Clentaminator|779
+780|Green Solution|780
+781|Blue Solution|781
+782|Purple Solution|782
+783|Dark Blue Solution|783
+784|Red Solution|784
+785|Harpy Wings|785
+786|Bone Wings|786
+787|Hammush|787
+788|Nettle Burst|788
+789|Ankh Banner|789
+790|Snake Banner|790
+791|Omega Banner|791
+792|Crimson Helmet|792
+793|Crimson Scalemail|793
+794|Crimson Greaves|794
+795|Blood Butcherer|795
+796|Tendon Bow|796
+797|Flesh Grinder|797
+798|Deathbringer Pickaxe|798
+799|Blood Lust Cluster|799
+800|The Undertaker|800
+801|The Meatball|801
+802|The Rotted Fork|802
+803|Eskimo Hood|803
+804|Eskimo Coat|804
+805|Eskimo Pants|805
+806|Living Wood Chair|806
+807|Cactus Chair|807
+808|Bone Chair|808
+809|Flesh Chair|809
+810|Mushroom Chair|810
+811|Bone Work Bench|811
+812|Cactus Work Bench|812
+813|Flesh Work Bench|813
+814|Mushroom Work Bench|814
+815|Slime Work Bench|815
+816|Cactus Door|816
+817|Flesh Door|817
+818|Mushroom Door|818
+819|Living Wood Door|819
+820|Bone Door|820
+821|Flame Wings|821
+822|Frozen Wings|822
+823|Ghost Wings|823
+824|Sunplate Block|824
+825|Disc Wall|825
+826|Skyware Chair|826
+827|Bone Table|827
+828|Flesh Table|828
+829|Living Wood Table|829
+830|Skyware Table|830
+831|Living Wood Chest|831
+832|Living Wood Wand|832
+833|Purple Ice Block|833
+834|Pink Ice Block|834
+835|Red Ice Block|835
+836|Crimstone Block|836
+837|Skyware Door|837
+838|Skyware Chest|838
+839|Steampunk Hat|839
+840|Steampunk Shirt|840
+841|Steampunk Pants|841
+842|Bee Hat|842
+843|Bee Shirt|843
+844|Bee Pants|844
+845|World Banner|845
+846|Sun Banner|846
+847|Gravity Banner|847
+848|Pharaoh's Mask|848
+849|Actuator|849
+850|Blue Wrench|850
+851|Green Wrench|851
+852|Blue Pressure Plate|852
+853|Yellow Pressure Plate|853
+854|Discount Card|854
+855|Lucky Coin|855
+856|Unicorn on a Stick|856
+857|Sandstorm in a Bottle|857
+858|Boreal Wood Sofa|858
+859|Beach Ball|859
+860|Charm of Myths|860
+861|Moon Shell|861
+862|Star Veil|862
+863|Water Walking Boots|863
+864|Tiara|864
+865|link:Princess set (Clothier)Princess Dress|865
+866|Pharaoh's Robe|866
+867|Green Cap|867
+868|Mushroom Cap|868
+869|Tam O' Shanter|869
+870|Mummy Mask|870
+871|Mummy Shirt|871
+872|Mummy Pants|872
+873|Cowboy Hat|873
+874|Cowboy Jacket|874
+875|Cowboy Pants|875
+876|Pirate Hat|876
+877|Pirate Shirt|877
+878|Pirate Pants|878
+879|Viking Helmet|879
+880|Crimtane Ore|880
+881|Cactus Sword|881
+882|Cactus Pickaxe|882
+883|Ice Brick|883
+884|Ice Brick Wall|884
+885|Adhesive Bandage|885
+886|Armor Polish|886
+887|Bezoar|887
+888|Blindfold|888
+889|Fast Clock|889
+890|Megaphone|890
+891|Nazar|891
+892|Vitamins|892
+893|Trifold Map|893
+894|Cactus Helmet|894
+895|Cactus Breastplate|895
+896|Cactus Leggings|896
+897|Power Glove|897
+898|Lightning Boots|898
+899|Sun Stone|899
+900|Moon Stone|900
+901|Armor Bracing|901
+902|Medicated Bandage|902
+903|The Plan|903
+904|Countercurse Mantra|904
+905|Coin Gun|905
+906|Lava Charm|906
+907|Obsidian Water Walking Boots|907
+908|Lava Waders|908
+909|Pure Water Fountain|909
+910|Desert Water Fountain|910
+911|Shadewood|911
+912|Shadewood Door|912
+913|Shadewood Platform|913
+914|Shadewood Chest|914
+915|Shadewood Chair|915
+916|Shadewood Work Bench|916
+917|Shadewood Table|917
+918|Shadewood Dresser|918
+919|Shadewood Piano|919
+920|Shadewood Bed|920
+921|Shadewood Sword|921
+922|Shadewood Hammer|922
+923|Shadewood Bow|923
+924|Shadewood Helmet|924
+925|Shadewood Breastplate|925
+926|Shadewood Greaves|926
+927|Shadewood Wall|927
+928|Cannon|928
+929|Cannonball|929
+930|Flare Gun|930
+931|Flare|931
+932|Bone Wand|932
+933|Leaf Wand|933
+934|Flying Carpet|934
+935|Avenger Emblem|935
+936|Mechanical Glove|936
+937|Land Mine|937
+938|Paladin's Shield|938
+939|Web Slinger|939
+940|Jungle Water Fountain|940
+941|Icy Water Fountain|941
+942|Corrupt Water Fountain|942
+943|Crimson Water Fountain|943
+944|Hallowed Water Fountain|944
+945|Blood Water Fountain|945
+946|Umbrella|946
+947|Chlorophyte Ore|947
+948|Steampunk Wings|948
+949|Snowball|949
+950|Ice Skates|950
+951|Snowball Launcher|951
+952|Web Covered Chest|952
+953|Climbing Claws|953
+954|Ancient Iron Helmet|954
+955|Ancient Gold Helmet|955
+956|Ancient Shadow Helmet|956
+957|Ancient Shadow Scalemail|957
+958|Ancient Shadow Greaves|958
+959|Ancient Necro Helmet|959
+960|Ancient Cobalt Helmet|960
+961|Ancient Cobalt Breastplate|961
+962|Ancient Cobalt Leggings|962
+963|Black Belt|963
+964|Boomstick|964
+965|Rope|965
+966|Campfire|966
+967|Marshmallow|967
+968|Marshmallow on a Stick|968
+969|Cooked Marshmallow|969
+970|Red Rocket|970
+971|Green Rocket|971
+972|Blue Rocket|972
+973|Yellow Rocket|973
+974|Ice Torch|974
+975|Shoe Spikes|975
+976|Tiger Climbing Gear|976
+977|Tabi|977
+978|Pink Eskimo Hood|978
+979|Pink Eskimo Coat|979
+980|Pink Eskimo Pants|980
+981|Pink Thread|981
+982|Mana Regeneration Band|982
+983|Sandstorm in a Balloon|983
+984|Master Ninja Gear|984
+985|Rope Coil|985
+986|Blowgun|986
+987|Blizzard in a Bottle|987
+988|Frostburn Arrow|988
+989|Enchanted Sword|989
+990|Pickaxe Axe|990
+991|Cobalt Waraxe|991
+992|Mythril Waraxe|992
+993|Adamantite Waraxe|993
+994|Eater's Bone|994
+995|Blend-O-Matic|995
+996|Meat Grinder|996
+997|Extractinator|997
+998|Solidifier|998
+999|Amber|999
+1000|Confetti Gun|1000
+1001|Chlorophyte Mask|1001
+1002|Chlorophyte Helmet|1002
+1003|Chlorophyte Headgear|1003
+1004|Chlorophyte Plate Mail|1004
+1005|Chlorophyte Greaves|1005
+1006|Chlorophyte Bar|1006
+1007|Red Dye|1007
+1008|Orange Dye|1008
+1009|Yellow Dye|1009
+1010|Lime Dye|1010
+1011|Green Dye|1011
+1012|Teal Dye|1012
+1013|Cyan Dye|1013
+1014|Sky Blue Dye|1014
+1015|Blue Dye|1015
+1016|Purple Dye|1016
+1017|Violet Dye|1017
+1018|Pink Dye|1018
+1019|Red and Black Dye|1019
+1020|Orange and Black Dye|1020
+1021|Yellow and Black Dye|1021
+1022|Lime and Black Dye|1022
+1023|Green and Black Dye|1023
+1024|Teal and Black Dye|1024
+1025|Cyan and Black Dye|1025
+1026|Sky Blue and Black Dye|1026
+1027|Blue and Black Dye|1027
+1028|Purple and Black Dye|1028
+1029|Violet and Black Dye|1029
+1030|Pink and Black Dye|1030
+1031|Flame Dye|1031
+1032|Flame and Black Dye|1032
+1033|Green Flame Dye|1033
+1034|Green Flame and Black Dye|1034
+1035|Blue Flame Dye|1035
+1036|Blue Flame and Black Dye|1036
+1037|Silver Dye|1037
+1038|Bright Red Dye|1038
+1039|Bright Orange Dye|1039
+1040|Bright Yellow Dye|1040
+1041|Bright Lime Dye|1041
+1042|Bright Green Dye|1042
+1043|Bright Teal Dye|1043
+1044|Bright Cyan Dye|1044
+1045|Bright Sky Blue Dye|1045
+1046|Bright Blue Dye|1046
+1047|Bright Purple Dye|1047
+1048|Bright Violet Dye|1048
+1049|Bright Pink Dye|1049
+1050|Black Dye|1050
+1051|Red and Silver Dye|1051
+1052|Orange and Silver Dye|1052
+1053|Yellow and Silver Dye|1053
+1054|Lime and Silver Dye|1054
+1055|Green and Silver Dye|1055
+1056|Teal and Silver Dye|1056
+1057|Cyan and Silver Dye|1057
+1058|Sky Blue and Silver Dye|1058
+1059|Blue and Silver Dye|1059
+1060|Purple and Silver Dye|1060
+1061|Violet and Silver Dye|1061
+1062|Pink and Silver Dye|1062
+1063|Intense Flame Dye|1063
+1064|Intense Green Flame Dye|1064
+1065|Intense Blue Flame Dye|1065
+1066|Rainbow Dye|1066
+1067|Intense Rainbow Dye|1067
+1068|Yellow Gradient Dye|1068
+1069|Cyan Gradient Dye|1069
+1070|Violet Gradient Dye|1070
+1071|Paintbrush|1071
+1072|Paint Roller|1072
+1073|Red Paint|1073
+1074|Orange Paint|1074
+1075|Yellow Paint|1075
+1076|Lime Paint|1076
+1077|Green Paint|1077
+1078|Teal Paint|1078
+1079|Cyan Paint|1079
+1080|Sky Blue Paint|1080
+1081|Blue Paint|1081
+1082|Purple Paint|1082
+1083|Violet Paint|1083
+1084|Pink Paint|1084
+1085|Deep Red Paint|1085
+1086|Deep Orange Paint|1086
+1087|Deep Yellow Paint|1087
+1088|Deep Lime Paint|1088
+1089|Deep Green Paint|1089
+1090|Deep Teal Paint|1090
+1091|Deep Cyan Paint|1091
+1092|Deep Sky Blue Paint|1092
+1093|Deep Blue Paint|1093
+1094|Deep Purple Paint|1094
+1095|Deep Violet Paint|1095
+1096|Deep Pink Paint|1096
+1097|Black Paint|1097
+1098|White Paint|1098
+1099|Gray Paint|1099
+1100|Paint Scraper|1100
+1101|Lihzahrd Brick|1101
+1102|Lihzahrd Brick Wall|1102
+1103|Slush Block|1103
+1104|Palladium Ore|1104
+1105|Orichalcum Ore|1105
+1106|Titanium Ore|1106
+1107|Teal Mushroom|1107
+1108|Green Mushroom|1108
+1109|Sky Blue Flower|1109
+1110|Yellow Marigold|1110
+1111|Blue Berries|1111
+1112|Lime Kelp|1112
+1113|Pink Prickly Pear|1113
+1114|Orange Bloodroot|1114
+1115|Red Husk|1115
+1116|Cyan Husk|1116
+1117|Violet Husk|1117
+1118|Purple Mucos|1118
+1119|Black Ink|1119
+1120|Dye Vat|1120
+1121|Bee Gun|1121
+1122|Possessed Hatchet|1122
+1123|Bee Keeper|1123
+1124|Hive|1124
+1125|Honey Block|1125
+1126|Hive Wall|1126
+1127|Crispy Honey Block|1127
+1128|Honey Bucket|1128
+1129|Hive Wand|1129
+1130|Beenade|1130
+1131|Gravity Globe|1131
+1132|Honey Comb|1132
+1133|Abeemination|1133
+1134|Bottled Honey|1134
+1135|Rain Hat|1135
+1136|Rain Coat|1136
+1137|Lihzahrd Door|1137
+1138|Dungeon Door|1138
+1139|Lead Door|1139
+1140|Iron Door|1140
+1141|Temple Key|1141
+1142|Lihzahrd Chest|1142
+1143|Lihzahrd Chair|1143
+1144|Lihzahrd Table|1144
+1145|Lihzahrd Work Bench|1145
+1146|Super Dart Trap|1146
+1147|Flame Trap|1147
+1148|Spiky Ball Trap|1148
+1149|Spear Trap|1149
+1150|Wooden Spike|1150
+1151|Lihzahrd Pressure Plate|1151
+1152|Lihzahrd Statue|1152
+1153|Lihzahrd Watcher Statue|1153
+1154|Lihzahrd Guardian Statue|1154
+1155|Wasp Gun|1155
+1156|Piranha Gun|1156
+1157|Pygmy Staff|1157
+1158|Pygmy Necklace|1158
+1159|Tiki Mask|1159
+1160|Tiki Shirt|1160
+1161|Tiki Pants|1161
+1162|Leaf Wings|1162
+1163|Blizzard in a Balloon|1163
+1164|Bundle of Balloons|1164
+1165|Bat Wings|1165
+1166|Bone Sword|1166
+1167|Hercules Beetle|1167
+1168|Smoke Bomb|1168
+1169|Bone Key|1169
+1170|Nectar|1170
+1171|Tiki Totem|1171
+1172|Lizard Egg|1172
+1173|Grave Marker|1173
+1174|Cross Grave Marker|1174
+1175|Headstone|1175
+1176|Gravestone|1176
+1177|Obelisk|1177
+1178|Leaf Blower|1178
+1179|Chlorophyte Bullet|1179
+1180|Parrot Cracker|1180
+1181|Strange Glowing Mushroom|1181
+1182|Seedling|1182
+1183|Wisp in a Bottle|1183
+1184|Palladium Bar|1184
+1185|Palladium Sword|1185
+1186|Palladium Pike|1186
+1187|Palladium Repeater|1187
+1188|Palladium Pickaxe|1188
+1189|Palladium Drill|1189
+1190|Palladium Chainsaw|1190
+1191|Orichalcum Bar|1191
+1192|Orichalcum Sword|1192
+1193|Orichalcum Halberd|1193
+1194|Orichalcum Repeater|1194
+1195|Orichalcum Pickaxe|1195
+1196|Orichalcum Drill|1196
+1197|Orichalcum Chainsaw|1197
+1198|Titanium Bar|1198
+1199|Titanium Sword|1199
+1200|Titanium Trident|1200
+1201|Titanium Repeater|1201
+1202|Titanium Pickaxe|1202
+1203|Titanium Drill|1203
+1204|Titanium Chainsaw|1204
+1205|Palladium Mask|1205
+1206|Palladium Helmet|1206
+1207|Palladium Headgear|1207
+1208|Palladium Breastplate|1208
+1209|Palladium Leggings|1209
+1210|Orichalcum Mask|1210
+1211|Orichalcum Helmet|1211
+1212|Orichalcum Headgear|1212
+1213|Orichalcum Breastplate|1213
+1214|Orichalcum Leggings|1214
+1215|Titanium Mask|1215
+1216|Titanium Helmet|1216
+1217|Titanium Headgear|1217
+1218|Titanium Breastplate|1218
+1219|Titanium Leggings|1219
+1220|Orichalcum Anvil|1220
+1221|Titanium Forge|1221
+1222|Palladium Waraxe|1222
+1223|Orichalcum Waraxe|1223
+1224|Titanium Waraxe|1224
+1225|Hallowed Bar|1225
+1226|Chlorophyte Claymore|1226
+1227|Chlorophyte Saber|1227
+1228|Chlorophyte Partisan|1228
+1229|Chlorophyte Shotbow|1229
+1230|Chlorophyte Pickaxe|1230
+1231|Chlorophyte Drill|1231
+1232|Chlorophyte Chainsaw|1232
+1233|Chlorophyte Greataxe|1233
+1234|Chlorophyte Warhammer|1234
+1235|Chlorophyte Arrow|1235
+1236|Amethyst Hook|1236
+1237|Topaz Hook|1237
+1238|Sapphire Hook|1238
+1239|Emerald Hook|1239
+1240|Ruby Hook|1240
+1241|Diamond Hook|1241
+1242|Amber Mosquito|1242
+1243|Umbrella Hat|1243
+1244|Nimbus Rod|1244
+1245|Orange Torch|1245
+1246|Crimsand Block|1246
+1247|Bee Cloak|1247
+1248|Eye of the Golem|1248
+1249|Honey Balloon|1249
+1250|Blue Horseshoe Balloon|1250
+1251|White Horseshoe Balloon|1251
+1252|Yellow Horseshoe Balloon|1252
+1253|Frozen Turtle Shell|1253
+1254|Sniper Rifle|1254
+1255|Venus Magnum|1255
+1256|Crimson Rod|1256
+1257|Crimtane Bar|1257
+1258|Stynger|1258
+1259|Flower Pow|1259
+1260|Rainbow Gun|1260
+1261|Stynger Bolt|1261
+1262|Chlorophyte Jackhammer|1262
+1263|Teleporter|1263
+1264|Flower of Frost|1264
+1265|Uzi|1265
+1266|Magnet Sphere|1266
+1267|Purple Stained Glass|1267
+1268|Yellow Stained Glass|1268
+1269|Blue Stained Glass|1269
+1270|Green Stained Glass|1270
+1271|Red Stained Glass|1271
+1272|Multicolored Stained Glass|1272
+1273|Skeletron Hand|1273
+1274|Skull|1274
+1275|Balla Hat|1275
+1276|Gangsta Hat|1276
+1277|Sailor Hat|1277
+1278|Eye Patch|1278
+1279|Sailor Shirt|1279
+1280|Sailor Pants|1280
+1281|Skeletron Mask|1281
+1282|Amethyst Robe|1282
+1283|Topaz Robe|1283
+1284|Sapphire Robe|1284
+1285|Emerald Robe|1285
+1286|Ruby Robe|1286
+1287|Diamond Robe|1287
+1288|White Tuxedo Shirt|1288
+1289|White Tuxedo Pants|1289
+1290|Panic Necklace|1290
+1291|Life Fruit|1291
+1292|Lihzahrd Altar|1292
+1293|Lihzahrd Power Cell|1293
+1294|Picksaw|1294
+1295|Heat Ray|1295
+1296|Staff of Earth|1296
+1297|Golem Fist|1297
+1298|Water Chest|1298
+1299|Binoculars|1299
+1300|Rifle Scope|1300
+1301|Destroyer Emblem|1301
+1302|High Velocity Bullet|1302
+1303|Jellyfish Necklace|1303
+1304|Zombie Arm|1304
+1305|The Axe|1305
+1306|Ice Sickle|1306
+1307|Clothier Voodoo Doll|1307
+1308|Poison Staff|1308
+1309|Slime Staff|1309
+1310|Poison Dart|1310
+1311|Eye Spring|1311
+1312|Toy Sled|1312
+1313|Book of Skulls|1313
+1314|KO Cannon|1314
+1315|Pirate Map|1315
+1316|Turtle Helmet|1316
+1317|Turtle Scale Mail|1317
+1318|Turtle Leggings|1318
+1319|Snowball Cannon|1319
+1320|Bone Pickaxe|1320
+1321|Magic Quiver|1321
+1322|Magma Stone|1322
+1323|Obsidian Rose|1323
+1324|Bananarang|1324
+1325|Chain Knife|1325
+1326|Rod of Discord|1326
+1327|Death Sickle|1327
+1328|Turtle Shell|1328
+1329|Tissue Sample|1329
+1330|Vertebrae|1330
+1331|Bloody Spine|1331
+1332|Ichor|1332
+1333|Ichor Torch|1333
+1334|Ichor Arrow|1334
+1335|Ichor Bullet|1335
+1336|Golden Shower|1336
+1337|Bunny Cannon|1337
+1338|Explosive Bunny|1338
+1339|Vial of Venom|1339
+1340|Flask of Venom|1340
+1341|Venom Arrow|1341
+1342|Venom Bullet|1342
+1343|Fire Gauntlet|1343
+1344|Cog|1344
+1345|Confetti|1345
+1346|Nanites|1346
+1347|Explosive Powder|1347
+1348|Gold Dust|1348
+1349|Party Bullet|1349
+1350|Nano Bullet|1350
+1351|Exploding Bullet|1351
+1352|Golden Bullet|1352
+1353|Flask of Cursed Flames|1353
+1354|Flask of Fire|1354
+1355|Flask of Gold|1355
+1356|Flask of Ichor|1356
+1357|Flask of Nanites|1357
+1358|Flask of Party|1358
+1359|Flask of Poison|1359
+1360|Eye of Cthulhu Trophy|1360
+1361|Eater of Worlds Trophy|1361
+1362|Brain of Cthulhu Trophy|1362
+1363|Skeletron Trophy|1363
+1364|Queen Bee Trophy|1364
+1365|Wall of Flesh Trophy|1365
+1366|Destroyer Trophy|1366
+1367|Skeletron Prime Trophy|1367
+1368|Retinazer Trophy|1368
+1369|Spazmatism Trophy|1369
+1370|Plantera Trophy|1370
+1371|Golem Trophy|1371
+1372|Blood Moon Rising|1372
+1373|The Hanged Man|1373
+1374|Glory of the Fire|1374
+1375|Bone Warp|1375
+1376|Wall Skeleton|1376
+1377|Hanging Skeleton|1377
+1378|Blue Slab Wall|1378
+1379|Blue Tiled Wall|1379
+1380|Pink Slab Wall|1380
+1381|Pink Tiled Wall|1381
+1382|Green Slab Wall|1382
+1383|Green Tiled Wall|1383
+1384|Blue Brick Platform|1384
+1385|Green Brick Platform|1385
+1386|Pink Brick Platform|1386
+1387|Metal Shelf|1387
+1388|Brass Shelf|1388
+1389|Wood Shelf|1389
+1390|Brass Lantern|1390
+1391|Caged Lantern|1391
+1392|Carriage Lantern|1392
+1393|Alchemy Lantern|1393
+1394|Diablost Lamp|1394
+1395|Oil Rag Sconse|1395
+1396|Blue Dungeon Chair|1396
+1397|Blue Dungeon Table|1397
+1398|Blue Dungeon Work Bench|1398
+1399|Green Dungeon Chair|1399
+1400|Green Dungeon Table|1400
+1401|Green Dungeon Work Bench|1401
+1402|Pink Dungeon Chair|1402
+1403|Pink Dungeon Table|1403
+1404|Pink Dungeon Work Bench|1404
+1405|Blue Dungeon Candle|1405
+1406|Green Dungeon Candle|1406
+1407|Pink Dungeon Candle|1407
+1408|Blue Dungeon Vase|1408
+1409|Green Dungeon Vase|1409
+1410|Pink Dungeon Vase|1410
+1411|Blue Dungeon Door|1411
+1412|Green Dungeon Door|1412
+1413|Pink Dungeon Door|1413
+1414|Blue Dungeon Bookcase|1414
+1415|Green Dungeon Bookcase|1415
+1416|Pink Dungeon Bookcase|1416
+1417|Catacomb|1417
+1418|Dungeon Shelf|1418
+1419|Skellington J Skellingsworth|1419
+1420|The Cursed Man|1420
+1421|The Eye Sees the End|1421
+1422|Something Evil is Watching You|1422
+1423|The Twins Have Awoken|1423
+1424|The Screamer|1424
+1425|Goblins Playing Poker|1425
+1426|Dryadisque|1426
+1427|Sunflowers|1427
+1428|Terrarian Gothic|1428
+1429|Beanie|1429
+1430|Imbuing Station|1430
+1431|Star in a Bottle|1431
+1432|Empty Bullet|1432
+1433|Impact|1433
+1434|Powered by Birds|1434
+1435|The Destroyer|1435
+1436|The Persistency of Eyes|1436
+1437|Unicorn Crossing the Hallows|1437
+1438|Great Wave|1438
+1439|Starry Night|1439
+1440|Guide Picasso|1440
+1441|The Guardian's Gaze|1441
+1442|Father of Someone|1442
+1443|Nurse Lisa|1443
+1444|Shadowbeam Staff|1444
+1445|Inferno Fork|1445
+1446|Spectre Staff|1446
+1447|Wooden Fence|1447
+1448|Lead Fence|1448
+1449|Bubble Machine|1449
+1450|Bubble Wand|1450
+1451|Marching Bones Banner|1451
+1452|Necromantic Sign|1452
+1453|Rusty Company Standard|1453
+1454|Ragged Brother Sigil|1454
+1455|Molten Legion Flag|1455
+1456|Diabolic Sigil|1456
+1457|Obsidian Platform|1457
+1458|Obsidian Door|1458
+1459|Obsidian Chair|1459
+1460|Obsidian Table|1460
+1461|Obsidian Work Bench|1461
+1462|Obsidian Vase|1462
+1463|Obsidian Bookcase|1463
+1464|Hellbound Banner|1464
+1465|Hell Hammer Banner|1465
+1466|Helltower Banner|1466
+1467|Lost Hopes of Man Banner|1467
+1468|Obsidian Watcher Banner|1468
+1469|Lava Erupts Banner|1469
+1470|Blue Dungeon Bed|1470
+1471|Green Dungeon Bed|1471
+1472|Pink Dungeon Bed|1472
+1473|Obsidian Bed|1473
+1474|Waldo|1474
+1475|Darkness|1475
+1476|Dark Soul Reaper|1476
+1477|Land|1477
+1478|Trapped Ghost|1478
+1479|Demon's Eye|1479
+1480|Finding Gold|1480
+1481|First Encounter|1481
+1482|Good Morning|1482
+1483|Underground Reward|1483
+1484|Through the Window|1484
+1485|Place Above the Clouds|1485
+1486|Do Not Step on the Grass|1486
+1487|Cold Waters in the White Land|1487
+1488|Lightless Chasms|1488
+1489|The Land of Deceiving Looks|1489
+1490|Daylight|1490
+1491|Secret of the Sands|1491
+1492|Deadland Comes Alive|1492
+1493|Evil Presence|1493
+1494|Sky Guardian|1494
+1495|American Explosive|1495
+1496|Discover|1496
+1497|Hand Earth|1497
+1498|Old Miner|1498
+1499|Skelehead|1499
+1500|Facing the Cerebral Mastermind|1500
+1501|Lake of Fire|1501
+1502|Trio Super Heroes|1502
+1503|Spectre Hood|1503
+1504|Spectre Robe|1504
+1505|Spectre Pants|1505
+1506|Spectre Pickaxe|1506
+1507|Spectre Hamaxe|1507
+1508|Ectoplasm|1508
+1509|Gothic Chair|1509
+1510|Gothic Table|1510
+1511|Gothic Work Bench|1511
+1512|Gothic Bookcase|1512
+1513|Paladin's Hammer|1513
+1514|SWAT Helmet|1514
+1515|Bee Wings|1515
+1516|Giant Harpy Feather|1516
+1517|Bone Feather|1517
+1518|Fire Feather|1518
+1519|Ice Feather|1519
+1520|Broken Bat Wing|1520
+1521|Tattered Bee Wing|1521
+1522|Large Amethyst|1522
+1523|Large Topaz|1523
+1524|Large Sapphire|1524
+1525|Large Emerald|1525
+1526|Large Ruby|1526
+1527|Large Diamond|1527
+1528|Jungle Chest|1528
+1529|Corruption Chest|1529
+1530|Crimson Chest|1530
+1531|Hallowed Chest|1531
+1532|Frozen Chest|1532
+1533|Jungle Key|1533
+1534|Corruption Key|1534
+1535|Crimson Key|1535
+1536|Hallowed Key|1536
+1537|Frozen Key|1537
+1538|Imp Face|1538
+1539|Ominous Presence|1539
+1540|Shining Moon|1540
+1541|Living Gore|1541
+1542|Flowing Magma|1542
+1543|Spectre Paintbrush|1543
+1544|Spectre Paint Roller|1544
+1545|Spectre Paint Scraper|1545
+1546|Shroomite Headgear|1546
+1547|Shroomite Mask|1547
+1548|Shroomite Helmet|1548
+1549|Shroomite Breastplate|1549
+1550|Shroomite Leggings|1550
+1551|Autohammer|1551
+1552|Shroomite Bar|1552
+1553|S.D.M.G.|1553
+1554|Cenx's Tiara|1554
+1555|Cenx's Breastplate|1555
+1556|Cenx's Leggings|1556
+1557|Crowno's Mask|1557
+1558|Crowno's Breastplate|1558
+1559|Crowno's Leggings|1559
+1560|Will's Helmet|1560
+1561|Will's Breastplate|1561
+1562|Will's Leggings|1562
+1563|Jim's Helmet|1563
+1564|Jim's Breastplate|1564
+1565|Jim's Leggings|1565
+1566|Aaron's Helmet|1566
+1567|Aaron's Breastplate|1567
+1568|Aaron's Leggings|1568
+1569|Vampire Knives|1569
+1570|Broken Hero Sword|1570
+1571|Scourge of the Corruptor|1571
+1572|Staff of the Frost Hydra|1572
+1573|The Creation of the Guide|1573
+1574|The Merchant|1574
+1575|Crowno Devours His Lunch|1575
+1576|Rare Enchantment|1576
+1577|Glorious Night|1577
+1578|Sweetheart Necklace|1578
+1579|Flurry Boots|1579
+1580|D-Town's Helmet|1580
+1581|D-Town's Breastplate|1581
+1582|D-Town's Leggings|1582
+1583|D-Town's Wings|1583
+1584|Will's Wings|1584
+1585|Crowno's Wings|1585
+1586|Cenx's Wings|1586
+1587|Cenx's Dress|1587
+1588|Cenx's Dress Pants|1588
+1589|Palladium Column|1589
+1590|Palladium Column Wall|1590
+1591|Bubblegum Block|1591
+1592|Bubblegum Block Wall|1592
+1593|Titanstone Block|1593
+1594|Titanstone Block Wall|1594
+1595|Magic Cuffs|1595
+1596|Music Box (Snow)|1596
+1597|Music Box (Space)|1597
+1598|Music Box (Crimson)|1598
+1599|Music Box (Boss 4)|1599
+1600|Music Box (Alt Overworld Day)|1600
+1601|Music Box (Rain)|1601
+1602|Music Box (Ice)|1602
+1603|Music Box (Desert)|1603
+1604|Music Box (Ocean)|1604
+1605|Music Box (Dungeon)|1605
+1606|Music Box (Plantera)|1606
+1607|Music Box (Boss 5)|1607
+1608|Music Box (Temple)|1608
+1609|Music Box (Eclipse)|1609
+1610|Music Box (Mushrooms)|1610
+1611|Butterfly Dust|1611
+1612|Ankh Charm|1612
+1613|Ankh Shield|1613
+1614|Blue Flare|1614
+1615|Angler Fish Banner|1615
+1616|Angry Nimbus Banner|1616
+1617|Anomura Fungus Banner|1617
+1618|Antlion Banner|1618
+1619|Arapaima Banner|1619
+1620|Armored Skeleton Banner|1620
+1621|Bat Banner|1621
+1622|Bird Banner|1622
+1623|Black Recluse Banner|1623
+1624|Blood Feeder Banner|1624
+1625|Blood Jelly Banner|1625
+1626|Blood Crawler Banner|1626
+1627|Bone Serpent Banner|1627
+1628|Bunny Banner|1628
+1629|Chaos Elemental Banner|1629
+1630|Mimic Banner|1630
+1631|Clown Banner|1631
+1632|Corrupt Bunny Banner|1632
+1633|Corrupt Goldfish Banner|1633
+1634|Crab Banner|1634
+1635|Crimera Banner|1635
+1636|Crimson Axe Banner|1636
+1637|Cursed Hammer Banner|1637
+1638|Demon Banner|1638
+1639|Demon Eye Banner|1639
+1640|Derpling Banner|1640
+1641|Eater of Souls Banner|1641
+1642|Enchanted Sword Banner|1642
+1643|Zombie Eskimo Banner|1643
+1644|Face Monster Banner|1644
+1645|Floaty Gross Banner|1645
+1646|Flying Fish Banner|1646
+1647|Flying Snake Banner|1647
+1648|Frankenstein Banner|1648
+1649|Fungi Bulb Banner|1649
+1650|Fungo Fish Banner|1650
+1651|Gastropod Banner|1651
+1652|Goblin Archer Banner|1652
+1653|Goblin Sorcerer Banner|1653
+1654|Goblin Scout Banner|1654
+1655|Goblin Thief Banner|1655
+1656|Goblin Warrior Banner|1656
+1657|Goldfish Banner|1657
+1658|Harpy Banner|1658
+1659|Hellbat Banner|1659
+1660|Herpling Banner|1660
+1661|Hornet Banner|1661
+1662|Ice Elemental Banner|1662
+1663|Icy Merman Banner|1663
+1664|Fire Imp Banner|1664
+1665|Jellyfish Banner|1665
+1666|Jungle Creeper Banner|1666
+1667|Lihzahrd Banner|1667
+1668|Man Eater Banner|1668
+1669|Meteor Head Banner|1669
+1670|Moth Banner|1670
+1671|Mummy Banner|1671
+1672|Mushi Ladybug Banner|1672
+1673|Parrot Banner|1673
+1674|Pigron Banner|1674
+1675|Piranha Banner|1675
+1676|Pirate Banner|1676
+1677|Pixie Banner|1677
+1678|Raincoat Zombie Banner|1678
+1679|Reaper Banner|1679
+1680|Shark Banner|1680
+1681|Skeleton Banner|1681
+1682|Skeleton Mage Banner|1682
+1683|Slime Banner|1683
+1684|Snow Flinx Banner|1684
+1685|Spider Banner|1685
+1686|Spore Zombie Banner|1686
+1687|Swamp Thing Banner|1687
+1688|Tortoise Banner|1688
+1689|Toxic Sludge Banner|1689
+1690|Umbrella Slime Banner|1690
+1691|Unicorn Banner|1691
+1692|Vampire Banner|1692
+1693|Vulture Banner|1693
+1694|Nymph Banner|1694
+1695|Werewolf Banner|1695
+1696|Wolf Banner|1696
+1697|World Feeder Banner|1697
+1698|Worm Banner|1698
+1699|Wraith Banner|1699
+1700|Wyvern Banner|1700
+1701|Zombie Banner|1701
+1702|Glass Platform|1702
+1703|Glass Chair|1703
+1704|Golden Chair|1704
+1705|Golden Toilet|1705
+1706|Bar Stool|1706
+1707|Honey Chair|1707
+1708|Steam Punk Chair|1708
+1709|Glass Door|1709
+1710|Golden Door|1710
+1711|Honey Door|1711
+1712|Steam Punk Door|1712
+1713|Glass Table|1713
+1714|Banquet Table|1714
+1715|Table Bar|1715
+1716|Golden Table|1716
+1717|Honey Table|1717
+1718|Steam Punk Table|1718
+1719|Glass Bed|1719
+1720|Golden Bed|1720
+1721|Honey Bed|1721
+1722|Steam Punk Bed|1722
+1723|Living Wood Wall|1723
+1724|Fart in a Jar|1724
+1725|Pumpkin|1725
+1726|Pumpkin Wall|1726
+1727|Hay|1727
+1728|Hay Wall|1728
+1729|Spooky Wood|1729
+1730|Spooky Wood Wall|1730
+1731|Pumpkin Helmet|1731
+1732|Pumpkin Breastplate|1732
+1733|Pumpkin Leggings|1733
+1734|Candy Apple|1734
+1735|Soul Cake|1735
+1736|Nurse Hat|1736
+1737|Nurse Shirt|1737
+1738|Nurse Pants|1738
+1739|Wizard's Hat|1739
+1740|Guy Fawkes Mask|1740
+1741|Dye Trader Robe|1741
+1742|Steampunk Goggles|1742
+1743|Cyborg Helmet|1743
+1744|Cyborg Shirt|1744
+1745|Cyborg Pants|1745
+1746|Creeper Mask|1746
+1747|Creeper Shirt|1747
+1748|Creeper Pants|1748
+1749|Cat Mask|1749
+1750|Cat Shirt|1750
+1751|Cat Pants|1751
+1752|Ghost Mask|1752
+1753|Ghost Shirt|1753
+1754|Pumpkin Mask|1754
+1755|Pumpkin Shirt|1755
+1756|Pumpkin Pants|1756
+1757|Robot Mask|1757
+1758|Robot Shirt|1758
+1759|Robot Pants|1759
+1760|Unicorn Mask|1760
+1761|Unicorn Shirt|1761
+1762|Unicorn Pants|1762
+1763|Vampire Mask|1763
+1764|Vampire Shirt|1764
+1765|Vampire Pants|1765
+1766|Witch Hat|1766
+1767|Leprechaun Hat|1767
+1768|Leprechaun Shirt|1768
+1769|Leprechaun Pants|1769
+1770|Pixie Shirt|1770
+1771|Pixie Pants|1771
+1772|Princess Hat|1772
+1773|Princess Dress|1773
+1774|Goodie Bag|1774
+1775|Witch Dress|1775
+1776|Witch Boots|1776
+1777|Bride of Frankenstein Mask|1777
+1778|Bride of Frankenstein Dress|1778
+1779|Karate Tortoise Mask|1779
+1780|Karate Tortoise Shirt|1780
+1781|Karate Tortoise Pants|1781
+1782|Candy Corn Rifle|1782
+1783|Candy Corn|1783
+1784|Jack 'O Lantern Launcher|1784
+1785|Explosive Jack 'O Lantern|1785
+1786|Sickle|1786
+1787|Pumpkin Pie|1787
+1788|Scarecrow Hat|1788
+1789|Scarecrow Shirt|1789
+1790|Scarecrow Pants|1790
+1791|Cauldron|1791
+1792|Pumpkin Chair|1792
+1793|Pumpkin Door|1793
+1794|Pumpkin Table|1794
+1795|Pumpkin Work Bench|1795
+1796|Pumpkin Platform|1796
+1797|Tattered Fairy Wings|1797
+1798|Spider Egg|1798
+1799|Magical Pumpkin Seed|1799
+1800|Bat Hook|1800
+1801|Bat Scepter|1801
+1802|Raven Staff|1802
+1803|Jungle Key Mold|1803
+1804|Corruption Key Mold|1804
+1805|Crimson Key Mold|1805
+1806|Hallowed Key Mold|1806
+1807|Frozen Key Mold|1807
+1808|Hanging Jack 'O Lantern|1808
+1809|Rotten Egg|1809
+1810|Unlucky Yarn|1810
+1811|Black Fairy Dust|1811
+1812|Jackelier|1812
+1813|Jack 'O Lantern|1813
+1814|Spooky Chair|1814
+1815|Spooky Door|1815
+1816|Spooky Table|1816
+1817|Spooky Work Bench|1817
+1818|Spooky Platform|1818
+1819|Reaper Hood|1819
+1820|Reaper Robe|1820
+1821|Fox Mask|1821
+1822|Fox Shirt|1822
+1823|Fox Pants|1823
+1824|Cat Ears|1824
+1825|Bloody Machete|1825
+1826|The Horseman's Blade|1826
+1827|Bladed Glove|1827
+1828|Pumpkin Seed|1828
+1829|Spooky Hook|1829
+1830|Spooky Wings|1830
+1831|Spooky Twig|1831
+1832|Spooky Helmet|1832
+1833|Spooky Breastplate|1833
+1834|Spooky Leggings|1834
+1835|Stake Launcher|1835
+1836|Stake|1836
+1837|Cursed Sapling|1837
+1838|Space Creature Mask|1838
+1839|Space Creature Shirt|1839
+1840|Space Creature Pants|1840
+1841|Wolf Mask|1841
+1842|Wolf Shirt|1842
+1843|Wolf Pants|1843
+1844|Pumpkin Moon Medallion|1844
+1845|Necromantic Scroll|1845
+1846|Jacking Skeletron|1846
+1847|Bitter Harvest|1847
+1848|Blood Moon Countess|1848
+1849|Hallow's Eve|1849
+1850|Morbid Curiosity|1850
+1851|Treasure Hunter Shirt|1851
+1852|Treasure Hunter Pants|1852
+1853|Dryad Coverings|1853
+1854|Dryad Loincloth|1854
+1855|Mourning Wood Trophy|1855
+1856|Pumpking Trophy|1856
+1857|Jack 'O Lantern Mask|1857
+1858|Sniper Scope|1858
+1859|Heart Lantern|1859
+1860|Jellyfish Diving Gear|1860
+1861|Arctic Diving Gear|1861
+1862|Frostspark Boots|1862
+1863|Fart in a Balloon|1863
+1864|Papyrus Scarab|1864
+1865|Celestial Stone|1865
+1866|Hoverboard|1866
+1867|Dragon Mask|1867
+1868|Titan Helmet|1868
+1869|Spectral Headgear|1869
+1870|Dragon Breastplate|1870
+1871|Titan Mail|1871
+1872|Spectral Armor|1872
+1873|Dragon Greaves|1873
+1874|Titan Leggings|1874
+1875|Spectral Subligar|1875
+1876|Tizona|1876
+1877|Tonbogiri|1877
+1878|Sharanga|1878
+1879|Spectral Arrow|1879
+1880|Vulcan Repeater|1880
+1881|Vulcan Bolt|1881
+1882|Suspicious Looking Skull|1882
+1883|Soul of Blight|1883
+1884|Petri Dish|1884
+1885|Beeswax|1885
+1886|Vial of Blood|1886
+1887|Wolf Fang|1887
+1888|Brain|1888
+1889|Music Box (Desert)|1889
+1890|Music Box (Space)|1890
+1891|Music Box (Tutorial)|1891
+1892|Music Box (Boss 4)|1892
+1893|Music Box (Ocean)|1893
+1894|Music Box (Snow)|1894
+1895|Fabulous Ribbon|1895
+1896|George's Hat|1896
+1897|Fabulous Dress|1897
+1898|George's Suit|1898
+1899|Fabulous Slippers|1899
+1900|George's Pants|1900
+1901|Sparkly Wings|1901
+1902|Ocram Trophy|1902
+1903|Albino Antlion Banner|1903
+1904|Orca Banner|1904
+1905|Vampire Miner Banner|1905
+1906|Shadow Hammer Banner|1906
+1907|Shadow Mummy Banner|1907
+1908|Spectral Gastropod Banner|1908
+1909|Spectral Elemental Banner|1909
+1910|Dragon Snatcher Banner|1910
+1911|Arch Wyvern Banner|1911
+1912|Arch Demon Banner|1912
+1913|Holiday Bauble|1913
+1914|Shiny Black Slab|1914
+1915|Heart Arrow|1915
+1916|Broken Heart Crystal|1916
+1917|Valentine Ring|1917
+1918|Rainbow Piece|1918
+1919|Pot o' Gold|1919
+1920|Mysterious Package|1920
+1921|Golden Seaweed|1921
+1922|Suspicious Looking Egg|1922
+1923|Boots of Ostara|1923
+1924|Egg Cannon|1924
+1925|Suspicious Looking Apple|1925
+1926|Old Walking Stick|1926
+1927|Holy Hand Grenade|1927
+1928|Strange Looking Tombstone|1928
+1929|Turkey Feather|1929
+1930|Cursed Stuffing|1930
+1931|Horn 'o' Plenty|1931
+1932|Roman Candle|1932
+1933|Festive Top Hat|1933
+1934|Alpine Hat|1934
+1935|Lederweste|1935
+1936|Lederhosen|1936
+1937|Oktober Locks|1937
+1938|Dirndl Blouse|1938
+1939|Dirndl Skirt|1939
+1940|Wiesnbräu|1940
+1941|Tree Shirt|1941
