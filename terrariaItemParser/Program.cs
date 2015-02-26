@@ -10,7 +10,15 @@ namespace terrariaItemParser
     {
         static void Main(string[] args)
         {
-            string text = System.IO.File.ReadAllText("C:\")
+            string[] lines = System.IO.File.ReadAllLines("C:\\Android\\projects\\TerrariaItemParser\\ItemIDs.txt");
+            for (int i = 1; i < lines.Length + 1; i++)
+            {
+                string s = lines[i - 1];
+                s = "" + i + "|" + s;
+                lines[i - 1] = s;
+                Console.WriteLine(s);
+            }
+            System.IO.File.WriteAllLines("C:\\Android\\projects\\TerrariaItemParser\\NewItemIDs.txt", lines);
         }
     }
 }

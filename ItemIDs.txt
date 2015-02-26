@@ -1,3 +1,13 @@
+Iron Pickaxe|1
+Dirt Block|2
+Stone Block|3
+Iron Broadsword|4
+Mushroom|5
+Iron Shortsword|6
+Iron Hammer|7
+Torch|8
+Wood|9
+Iron Axe|10
 Iron Ore|11
 Copper Ore|12
 Gold Ore|13
@@ -87,20 +97,6 @@ Musket|96
 Musket Ball|97
 Minishark|98
 Iron Bow|99
-Gold Bow
-99 (2)
-Silver Bow
-99 (3)
-Copper Bow
-99 (4)
-Tin Bow
-99 (5)
-Lead Bow
-99 (6)
-Tungsten Bow
-99 (7)
-Platinum Bow
-99 (8)
 Shadow Greaves|100
 Shadow Scalemail|101
 Shadow Helmet|102
@@ -119,7 +115,7 @@ Dirt Rod|114
 Orb of Light|115
 Meteorite|116
 Meteorite Bar|117
-Hook (crafting material)|118
+Hook|118
 Flamarang|119
 Molten Fury|120
 Fiery Greatsword|121
@@ -200,23 +196,11 @@ Jungle Grass Seeds|195
 Wooden Hammer|196
 Star Cannon|197
 Blue Phaseblade|198
-Blue Phasesaber
-198 (2)
 Red Phaseblade|199
-Red Phasesaber
-199 (2)
 Green Phaseblade|200
-Green Phasesaber
-200 (2)
 Purple Phaseblade|201
-Purple Phasesaber
-201 (2)
 White Phaseblade|202
-White Phasesaber
-202 (2)
 Yellow Phaseblade|203
-Yellow Phasesaber
-203 (2)
 Meteor Hamaxe|204
 Empty Bucket|205
 Water Bucket|206
