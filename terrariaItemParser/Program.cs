@@ -12,7 +12,8 @@ namespace TerrariaFileParser
         {
             Console.WriteLine("Please select the file you wish to edit:\n" +
                 "I)tem IDs\n" +
-                "P)refix IDs\n");
+                "P)refix IDs\n" +
+                "A)lphabetize Items\n");
             string input = Console.ReadLine();
             switch (input)
             {
@@ -25,6 +26,11 @@ namespace TerrariaFileParser
                 case "p":
                     ParsePrefixes();
                     Console.WriteLine("Parsing complete. Exiting");
+                    break;
+                case "A":
+                case "a":
+                    AlphabetizeItems();
+                    Console.WriteLine("Items alphabetized. Exiting");
                     break;
                 default:
                     Console.WriteLine("Invalid input. Exiting");
@@ -59,6 +65,13 @@ namespace TerrariaFileParser
                 Console.WriteLine(s);
             }
             System.IO.File.WriteAllLines("C:\\Android\\projects\\TerrariaFileParser\\NewPrefixIDs.txt", lines);
+        }
+
+        private static void AlphabetizeItems()
+        {
+            string[] lines = System.IO.File.ReadAllLines("C:\\Users\\teernisse\\Desktop\\items.txt");
+            Array.Sort(lines);
+            System.IO.File.WriteAllLines("C:\\Users\\teernisse\\Desktop\\alphabetizedItems.txt", lines);
         }
     }
 }
